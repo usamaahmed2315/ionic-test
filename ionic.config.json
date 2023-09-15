@@ -1,0 +1,8 @@
+{
+  "name": "Educative",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "3460a5fd"
+}
